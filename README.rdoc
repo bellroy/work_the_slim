@@ -1,6 +1,5 @@
 = work_the_slim
 
-Description goes here.
 
 == Contributing to work_the_slim
  
@@ -14,6 +13,6 @@ Description goes here.
 
 == Copyright
 
-Copyright (c) 2011 Tom. See LICENSE.txt for
+Copyright (c) 2011 TrikeApps. See LICENSE.txt for
 further details.
 
